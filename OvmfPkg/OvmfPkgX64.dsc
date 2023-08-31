@@ -940,6 +940,7 @@
   OvmfPkg/QemuRamfbDxe/QemuRamfbDxe.inf
   OvmfPkg/VirtioGpuDxe/VirtioGpu.inf
   OvmfPkg/IgdAssignmentDxe/IgdAssignment.inf
+  OvmfPkg/PlatformGopPolicy/PlatformGopPolicy.inf
 
   #
   # ISA Support
